@@ -21,10 +21,10 @@ Because `printf` is for the weak.
    - Already included with Visual Studio.
 
 ## 📁 Project Structure
-assembly-hello-world-x86/
-├── main.asm ; Your assembly code
-├── build.bat ; Script to compile and link
-└── README.md ; (this file)
+assembly-hello-world-x86/  
+├── main.asm ; Your assembly code  
+├── build.bat ; Script to compile and link  
+└── README.md ; (this file)  
 
 
 ## ▶️ How to Run
@@ -35,12 +35,13 @@ assembly-hello-world-x86/
 2. Run the build script:
 ```cmd
 .\build.bat
+```
 
 3. Then run the compiled .exe:
 ```cmd
 .\main.exe
-
-
+```
+------------------------------------------------------------------------------------------------------------
 
 # 🧠 Assembly Hello World (x86, Windows) - Portuguese
 
@@ -65,10 +66,10 @@ Um "Hello, World!" escrito na unha usando Assembly x86, NASM e o linker do Visua
 
 
 ## 📁 Estrutura do projeto
-assembly-hello-world-x86/
-├── main.asm ; Seu código assembly
-├── build.bat ; Script para compilar e linkar
-└── README.md ; (este arquivo)
+assembly-hello-world-x86/  
+├── main.asm ; Your assembly code  
+├── build.bat ; Script to compile and link  
+└── README.md ; (this file)  
 
 
 ## ▶️ Como rodar
@@ -78,7 +79,9 @@ assembly-hello-world-x86/
 2. Execute o script de build:
 ```cmd
 .\build.bat
+```
 
 3. Execute no terminal o .exe:
 ```cmd
 .\main.exe
+```
