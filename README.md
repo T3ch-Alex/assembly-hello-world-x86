@@ -1,4 +1,4 @@
-Credits for the code on the channel "Programador Hobbista" - https://youtu.be/42xLBK3L51U
+Credits for the code by the channel "Programador Hobbista" - https://youtu.be/42xLBK3L51U
 
 # 🧠 Assembly Hello World (x86, Windows) - English
 
