@@ -1,3 +1,5 @@
+Credits for the code on the channel "Programador Hobbista" - https://youtu.be/42xLBK3L51U
+
 # 🧠 Assembly Hello World (x86, Windows) - English
 
 A "Hello, World!" written by hand in raw x86 Assembly using NASM and Visual Studio's linker.  
