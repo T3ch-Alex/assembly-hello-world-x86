@@ -3,6 +3,8 @@
 A "Hello, World!" written by hand in raw x86 Assembly using NASM and Visual Studio's linker.  
 Because `printf` is for the weak.
 
+I made two versions, one using push instruction and other using only add / sub instructions, to test different types of stack manipulation.
+
 ## 🛠️ Requirements
 
 1. **[NASM (Netwide Assembler)]**  
@@ -46,6 +48,8 @@ assembly-hello-world-x86/
 # 🧠 Assembly Hello World (x86, Windows) - Portuguese
 
 Um "Hello, World!" escrito na unha usando Assembly x86, NASM e o linker do Visual Studio. Porque printf é para os fracos.
+
+Eu fiz duas versões, uma usando a instrução push e outra usando apenas add / sub, para testar diferentes tipos de manipulação da pilha.
 
 ## 🛠️ Requisitos
 
